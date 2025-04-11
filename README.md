@@ -11,19 +11,19 @@ TechTank is a Shark Tank-inspired 12-hour hackathon hosted by the RVCE ACM Stude
 
 ## Tracks
 
-*⁠🌱 Sustainable Development 
+🌱 Sustainable Development 
 > Agri-tech, Circular Economy
 
-*Governance & Social Impact
+Governance & Social Impact
 > Civic Tech, Public Service
 
-*🏗 Infrastructure & Industry 
+🏗 Infrastructure & Industry 
 > Smart Logistics, Hardware Innovation
 
-*💡 Finance & Digital Transformation 
+💡 Finance & Digital Transformation 
 > Embedded Finance, UPI Innovation
 
-* ⁠🎓 Campus Innovation
+⁠🎓 Campus Innovation
 > EdTech, Student Life Solutions
 
 
