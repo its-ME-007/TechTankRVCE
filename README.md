@@ -45,24 +45,6 @@ Governance & Social Impact
 >* Cash worth - 2000 INR
 >* Hackathon Swags
 
-## Judging Parameters
-
-1. Project Completeness and Functionality *(25%)*
-
-> * Does the project stand as an individual end-to-end product?
-> * Is it a functioning solution that can scale in the real world?
-
-2. Creativity in Design *(25%)*
-
-> * Does the project bring innovations in design and create comfortable user experiences?
-
-3. Innovation in Idea *(25%)*
-
-> * Does the project attempt to solve a previously unsolved problem?
-
-4. Social Impact *(25%)*
-
-> * Does the project have an impact on people's lives at a social level?
 
 ## How To Submit Your Project?
 
