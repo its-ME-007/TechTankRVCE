@@ -6,8 +6,8 @@ TechTank is a Shark Tank-inspired 12-hour hackathon hosted by the RVCE ACM Stude
 
 ## Timeline
 
-* **Start Date and Time:** 11th April 2025 at 8:30 PM IST
-* **Start Date and Time:** 12th April 2025 at 8:00 AM IST
+* **Start Date and Time:** 11th April 2025 at 8:45 PM IST
+* **End Date and Time:** 12th April 2025 at 8:45 AM IST
 
 ## Tracks
 
@@ -42,7 +42,7 @@ Governance & Social Impact
 
 * **3rd Prize**
 
->* Cash worth - 1000 INR
+>* Cash worth - 2000 INR
 >* Hackathon Swags
 
 ## Judging Parameters
